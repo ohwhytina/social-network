@@ -14,6 +14,8 @@ To create an API for my social network using NoSQL database for my website to ha
 
 ## Installation
 Clone or download files. 'npm install', you may need to change your mongodb to connect to your database (if error), then 'npm start'
+[Link to video](https://www.youtube.com/watch?v=vnoaoRzNlPY)
+
 ![demo](http://github.com/ohwhytina/social-network/blob/main/img/Social-Network.gif?raw=true)
 
 ## Usage
